@@ -1,0 +1,4 @@
+[project]
+name = "ai-prompt-injection-shield"
+version = "0.1.0"
+description = "Detects adversarial injection attacks ('ignore previous instructions', system prompt override, delimiters)."

@@ -1,0 +1,22 @@
+{
+  "name": "@elnamer70/prompt-injection-shield",
+  "version": "1.0.0",
+  "description": "Heuristic and vector-based prompt injection defense shield",
+  "main": "main.py",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElNeMeR70/ai-prompt-injection-shield.git"
+  },
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "deep-learning",
+    "llm",
+    "nlp"
+  ],
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
